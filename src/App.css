@@ -1,0 +1,12 @@
+
+.body {
+  background-color: lightblue;
+}
+.Day{
+  background-color: lightyellow;
+  height: 500px;
+}
+.Night{
+  background-color: lightgrey;
+  height: 500px;
+}
